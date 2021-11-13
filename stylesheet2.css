@@ -1,0 +1,23 @@
+body {
+	background: black;
+}
+h1 {
+	text-align: center;
+	color: white;
+}
+.boxmodel {
+	border: 5px solid orangered;
+	color: white;
+	display: inline-block;
+	padding: 5px 20px 100px 10px;
+	margin: 0px 25px;
+}
+p {
+	font-size: 20px;
+	color: white;
+}
+span {
+	font-size: 2em;
+}
+
+/*apple*/

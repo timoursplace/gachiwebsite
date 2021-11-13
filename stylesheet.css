@@ -1,0 +1,67 @@
+/*Selector {
+	Property: value;
+}*/
+body {
+	background: url(https://i.ytimg.com/vi/yaIQ3aI4pzc/maxresdefault.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.title {
+	color: white;
+	text-align: center;
+}
+li {
+	list-style: none;
+	display: inline-block;
+	text-align: justify;
+}
+nav {
+	color: rgb(232, 228, 126);
+}
+nav a{
+	color: rgb(255, 252, 180);
+	text-decoration: none;
+}
+.arsenest:hover {
+	border: 4px dashed
+}
+p {
+	line-height: 25px;
+	color: white;
+	font-style: bold;
+	font-size: x-large;
+	font-family: "Birthstone", cursive;
+	text-shadow: 2px 2px 1px black;
+}
+.vans {
+display: flex;
+flex-wrap: wrap;
+}
+.vanimg {
+	transition: transform 1s;
+	margin-right: 20px;
+	margin-bottom: 15px;
+	height: 300px;
+	width: auto;
+	border: medium solid white;
+}
+.vanimg:hover {
+	transform: scale(1.1);
+}
+.vancaption{
+	text-align: center;
+	font-family: 'Caveat', cursive;
+	font-size: x-large;
+	color: aqua;
+	text-shadow: 1px 1px 1px white;
+	background: rgb(0, 0, 0, 0.5);
+}
+.vaninterview {
+	text-align: center;
+	text-indent: 10px;
+}
+.thisFatCock1 {
+	border: thin solid white;
+}
